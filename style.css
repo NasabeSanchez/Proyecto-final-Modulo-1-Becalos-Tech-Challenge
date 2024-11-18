@@ -71,3 +71,6 @@ footer p {
     font-size: 14px;
     color: #666666;
 }
+input,label{
+    display: block;
+}
